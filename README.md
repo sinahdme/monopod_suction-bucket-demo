@@ -2,7 +2,8 @@
 
 ## Overview
 This repository contains a **demonstration** of numerical simulation for multidirectional loading in offshore wind turbine foundations (monopod suction bucket).  
-The workflow integrates **CPT-based soil resistance** and **soil–structure interaction models** to evaluate foundation performance under lateral and rotational loads.  
+The workflow is designed with the potential to incorporate **CPT-based soil resistance** and **soil–structure interaction models** to evaluate foundation performance under lateral and rotational loads.  
+
 
 ⚠️ **Note:** The full validated framework and parametric study results are currently under journal review and will be released upon acceptance.
 This repo is intended only to showcase the modeling approach and code structure.  
