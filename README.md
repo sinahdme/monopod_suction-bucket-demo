@@ -48,3 +48,6 @@ Ph.D. Candidate – Wind Energy (Offshore Foundations)
 Kunsan National University, South Korea  
 Email: sinahdme@gmail.com  
 GitHub: [github.com/sinahdme](https://github.com/sinahdme)  
+### 🔄 Update (October 2025)
+A new multi-bucket version of this model has been uploaded here:
+👉 [multibucket_suction-foundation-simulator](https://github.com/sinahdme/multibucket_suction-foundation-simulator)
