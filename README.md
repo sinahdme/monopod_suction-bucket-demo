@@ -18,7 +18,7 @@ This repo is intended only to showcase the modeling approach and code structure.
 - **pycurve.m** – Applies the p–y curve theory (calls `BETA13.m` and `BETA24.m`).  
 - **qzcurve2.m** – Calculates q–z spring forces at the skirt tip.  
 - **qzcurve4.m** – Calculates q–z spring forces beneath the lid.  
-- **Ranking.m** – Computes Rankine pressure (nested in `pycurve.m`).  
+- **Rankine.m** – Computes Rankine pressure (nested in `pycurve.m`).  
 - **tzcurve.m** – Calculates t–z spring forces on the skirt.  
 - **tzcurve_deadload.m** – Computes t–z forces during settlement (before rotation).  
 - **transformation.m** – Computes positions of points in 3D Cartesian frame relative to the body frame (after rotation), based on the center of rotation *Q*.  
